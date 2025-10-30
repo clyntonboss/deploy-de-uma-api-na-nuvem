@@ -22,7 +22,11 @@ Minha jornada profissional está pautada no **desenvolvimento constante, ética 
 
 **Desenvolvido por [Rogério Clynton Ribeiro](https://github.com/ClyntonChronos)**  
 *#AprendizadoContínuo*
+
 *#DIO*
+
 *#Microsoft*
+
 *#AZ204*
+
 *#ClyntonChronos*
